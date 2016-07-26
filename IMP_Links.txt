@@ -1,0 +1,8 @@
+How to Install Your Own Cloud Platform with OpenStack in RHEL/CentOS 7
+http://www.tecmint.com/openstack-installation-guide-rhel-centos/
+
+How to Configure OpenStack Network to Enable Access to OpenStack Instances
+http://www.tecmint.com/openstack-networking-guide/
+
+How to Create, Deploy and Launch Virtual Machines in OpenStack
+http://www.tecmint.com/create-deploy-and-launch-virtual-machines-in-openstack/
