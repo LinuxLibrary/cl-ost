@@ -3,4 +3,5 @@ MOD-2_AWS_Foundations
 MOD-3_AWS_Certified_Solutions_Architect_-_Architecting_for_AWS
 
 MOD-1.01-04/04	- C
+MOD-1.02-04/06	- I
 
