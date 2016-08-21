@@ -19,3 +19,12 @@ Let us see how to create an EBS volume and attaching to an instance.
 
 NOTE:
 Be sure to remove that volume and the snapshot if this volume is not in use.
+
+Before deleting this volume please make sure you have backup of IMP data.
+
+- Unmount the volume on the host / instance
+- Go to Volumes in the EC2 Dashboard
+- Select the volume and click on the Actions and then on Dettach
+- Wait till the status is Available
+- Now again click on Actions and then on Delete Volume
+- Confirm to Delete
