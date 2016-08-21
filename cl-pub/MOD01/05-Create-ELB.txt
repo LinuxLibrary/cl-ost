@@ -7,8 +7,6 @@ We need to perform the following steps to create a LoadBalancer.
 - Configure the loadbalancer to send traffic to these instances
 - Verify the load balance
 
-Step 1:
--------
 Let us configure the instances first
 - Go to EC2 Dashboard
 - Launch Instance
